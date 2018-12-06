@@ -1,13 +1,9 @@
 p {
-font-size: 8px;
+font-size: 11px;
 }
 .referral {
   height:auto;
   width: 500px;
-}
-#moneyface {
-  height:auto;
-  width: 100%;
 }
 .button {
   display: flex;
